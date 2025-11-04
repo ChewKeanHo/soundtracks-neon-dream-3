@@ -19,7 +19,7 @@ On Published Date: 2025-05-08
 On YouTube since : 2025-06-07
 ```
 
-[YouTube](https://www.youtube.com/watch?v=f6_496nW2xc)
+[YouTube](https://www.youtube.com/watch?v=zncfzMHA9Rs)
 
 * [Agreed GIMP License](.internals/terms-of-services/GimpORG_License.pdf)
 * [Agreed GIMP Privacy Policy](.internals/privacy-policy/GimpORG-Privacy-Policy.pdf)
